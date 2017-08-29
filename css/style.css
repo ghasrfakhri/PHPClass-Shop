@@ -1,0 +1,31 @@
+.main{
+    width: 800px;
+    margin: 0px auto;
+}
+
+.header{
+    height: 80px;
+    background-color: #ddd;
+}
+
+.content-body{
+    min-height: 400px;
+    background-color: #BBB;
+    width: 800px;
+}
+.menu{
+    float:  right;
+    width: 200px;
+    min-height: 400px;
+    background-color: #888;
+}
+.content{
+    float:  right;
+    width: 600px;
+    min-height: 400px;
+    background-color: #999;
+}
+.footer{
+    height: 80px;
+    background-color: #ccc;
+}
